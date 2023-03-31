@@ -1,6 +1,6 @@
 Name:		texlive-options
 Version:	39030
-Release:	1
+Release:	2
 Summary:	Provides convenient key-value options for LaTeX package writers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/options
