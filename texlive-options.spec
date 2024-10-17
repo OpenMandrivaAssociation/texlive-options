@@ -3,7 +3,7 @@ Version:	39030
 Release:	2
 Summary:	Provides convenient key-value options for LaTeX package writers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/options
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/options
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/options.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/options.doc.r%{version}.tar.xz
